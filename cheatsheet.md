@@ -118,6 +118,6 @@ I need to highlight these ==very important words==.
 
 H~2~O
 
-### Superscript
+### Superscript(cool)
 
 X^2^
