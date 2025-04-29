@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<title>Markdown Cheat Sheet</title>
+
 # Markdown Cheat Sheet
 
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
