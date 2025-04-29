@@ -1,4 +1,11 @@
-theme: jekyll-theme-hacker
+title: Welcome to the Zombie Apocalypse!
+description: >
+  A quick blog about how to survive a zombie apocalypse.
 
-title: [Welcome to the Zombie Apocalypse!]
-description: [This site will show you the best ways to survive in a zombie apocalypse, realistically and fantastical.]
+# Use the built-in GitHub Pages remote_theme plugin
+remote_theme: pages-themes/hacker@v0.2.0
+
+# Ensure jekyll-remote-theme is enabled
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed       # if you want RSS
