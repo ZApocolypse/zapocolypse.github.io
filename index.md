@@ -1,6 +1,8 @@
 ---
 layout: home
+title: Zapocalypse
 ---
-## Welcome
 
-This site is using the **Hacker** theme!
+# Welcome to Zapocalypse
+
+Stay tuned for updates!
