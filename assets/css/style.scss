@@ -2,14 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 .start-button {
-    color: #000;
     border-radius: 12px;
     border: 2px solid #555555;
     background-color: white;
     transition-duration: 0.4s;
     padding: 32px 16px;
+    font-family: 'Press Start 2P', monospace;
+    color: #90ff90;
 }
 
 .start-button:hover {
