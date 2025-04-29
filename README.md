@@ -1,4 +1,4 @@
-# zapocalypse.github.io
+# zapocolypse.github.io
 Home for the Zombie apocalypse website.
 
 Also, the Gemfile is just for jekyll themes
