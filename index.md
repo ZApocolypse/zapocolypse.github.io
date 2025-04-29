@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zapocalypse
+title: Zombie Apocalypse
 ---
 
 # Welcome to Zapocalypse
