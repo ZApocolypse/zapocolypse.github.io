@@ -1,2 +1,2 @@
-# zapocolypse.github.io
-Home for the Zombie apocolypse website.
+# zapocalypse.github.io
+Home for the Zombie apocalypse website.
